@@ -31,3 +31,8 @@ import PIL.Image
 
 ## Conclusion
 This project demonstrates the implementation of Neural Style Transfer, allowing users to create unique stylized images by combining different content and style images.
+
+![Screenshot of the Application](Screenshot%202025-02-11%20142010.png)
+
+
+![Screenshot of the Application](Screenshot%202025-02-11%20142023.png)
